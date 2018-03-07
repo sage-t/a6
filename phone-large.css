@@ -1,0 +1,105 @@
+
+.toggle {
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+h2 {
+    font-size: 30px;
+}
+
+input {
+    background-color: black;
+    border: 1px solid white;
+    width: 1000px;
+    height: 150px;
+}
+
+label {
+    font-size: 35px;
+}
+
+p {
+    font-size: 30px;
+}
+
+.pure-button {
+    color: white;
+    background-color: black;
+    border: 1px solid white;
+    font-size: 35px;
+}
+
+#tab-bar {
+    border-bottom: 1px solid black;
+    margin-top: 10px;
+}
+
+#tab-bar button {
+    width: 24%;
+}
+
+.lightgray {
+    background: lightgray;
+}
+
+.border {
+    border: 1px solid black;
+}
+
+.text-center {
+    text-align: center;
+    vertical-align: middle;
+}
+
+.active-tab {
+    /* border-bottom: 5px solid red; */
+    color: yellow;
+}
+
+.dialer-table tr td button {
+    margin-right: 20px;
+    margin-top: 10px;
+    width: 180px;
+    height: 180px;
+    font-size: 
+}
+
+.dialer-button {
+    margin-top: 10px;
+    margin-right: 20px;
+    width: 36%;
+}
+
+#content-list button {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#content {
+    width: 400px;
+}
+
+#content-form form button {
+    margin-top: 10px;
+    margin-right: 10px;
+}
+
+#content-form form label {
+    margin-top: 10px;
+}
+
+#content-form form input {
+    width: 70%;
+}
+
+body {
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 1100px;
+    color: white;
+}
+
+/* #content div {
+    width: 500px;
+} */
